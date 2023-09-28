@@ -1,6 +1,8 @@
 # Project1
 # Felicia Jimenez
 #
+This is my first project using HTML.
+
 #This website is designed as a convenient method for the end-user to book winery tours quickly and conveniently.
 #
 #Design is such that it contains very basic instructions making use of "quick and convenient" methodology.
