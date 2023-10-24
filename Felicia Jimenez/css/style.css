@@ -1,0 +1,28 @@
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+       }
+
+
+body {
+        background-color: rgb(229, 241, 229);
+      }
+
+ 
+img {
+        border-radius: 8px;
+        border: 2px solid gray;
+      }
+
+
+.carousel-inner {
+    margin-top: 50px;
+  }
+
+ 
